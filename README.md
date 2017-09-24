@@ -1,2 +1,2 @@
 # hello-world
-For texting and learning
+For testing and learning
